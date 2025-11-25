@@ -3,6 +3,18 @@
 Sistema desarrollado en **2022** como proyecto académico y funcional para la papelería **Papelería Estrada**.  
 Permite gestionar ventas, compras, inventario, productos, proveedores y usuarios mediante una interfaz construida con **Java Swing** y una base de datos **PostgreSQL**.
 
+## Tecnologías utilizadas
+
+- **Lenguaje:** Java (JDK 21)
+- **IDE:** NetBeans
+- **Interfaz gráfica:** Java Swing
+- **Base de datos:** PostgreSQL
+- **Conexión:** JDBC
+- **Librerías externas:**
+  - Autocompleter
+  - JasperReport
+  - JCalendar
+
 ## Características principales
 
 - **Autenticación**
@@ -47,18 +59,6 @@ Permite gestionar ventas, compras, inventario, productos, proveedores y usuarios
 - Mejorar nombres de variables, estructura interna y agregar comentarios.
 - Uso de variables de entorno.
 - Mejorar la organización completa del proyecto.
-
-## Tecnologías utilizadas
-
-- **Lenguaje:** Java (JDK 21)
-- **IDE:** NetBeans
-- **Interfaz gráfica:** Java Swing
-- **Base de datos:** PostgreSQL
-- **Conexión:** JDBC
-- **Librerías externas:**
-  - Autocompleter
-  - JasperReport
-  - JCalendar
 
 ## Requisitos previos
 
